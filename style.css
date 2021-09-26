@@ -1,0 +1,33 @@
+body {
+  background: url('fondo1.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -0-background-size: cover;
+  background-size: cover;
+}
+
+h1, h2 {
+  color: DarkGreen;
+  text-align: center;
+  font-weight: 100;
+  font-size: 40px;
+}
+
+h2 {
+  font-weight: 60;
+  font-size: 30px;
+}
+
+p {
+  color: ForestGreen;
+  text-align: justify;
+  font-weight: 40px;
+}
+
+.box {
+  background-color: rgba(255,228,196,0.3); /* Bisque, #ffe4c4 */
+  width: 600px;
+  margin-top: 40px;
+  padding: 10px;
+  font-family: 'Helveitca Neue', Helvetica;
+}
